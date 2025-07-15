@@ -27,7 +27,7 @@ const Projects = () => {
       description:
         "A modern, responsive  for an e-commerce platform, featuring dynamic product components and smooth shopping cart interactions built with React.",
       tech: ["HTML", "CSS", "JavaScript", "React"],
-      image: "src/assets/Cover.png",
+      image: "/assets/Cover.png",
       githubUrl: "https://github.com/Dharanitharan21/jewwlshopfrontEnd",
       gradient: "from-purple-600 to-pink-600",
     },
@@ -37,7 +37,7 @@ const Projects = () => {
       description:
         "A professional hospital website showcasing hospital services, departments, and patient resources with a clean and modern design.",
       tech: ["React", "Javascript", "CSS", "Html"],
-      image: "src/assets/Thumbnail.jpg",
+      image: "/assets/Thumbnail.jpg",
       liveUrl: "https://harmonycare.netlify.app/",
       githubUrl: "https://github.com/Dharanitharan21/HCHospital",
       gradient: "from-cyan-600 to-blue-600",
@@ -48,7 +48,7 @@ const Projects = () => {
       description:
         "A personal portfolio website to showcase projects, skills, and experience with an interactive and responsive design.",
       tech: ["React.js", "Javascript", "CSS", "HTML"],
-      image: "src/assets/Figma Thumbnail.jpg",
+      image: "/assets/Figma Thumbnail.jpg",
       githubUrl: "#",
       gradient: "from-green-600 to-cyan-600",
     },
@@ -58,7 +58,7 @@ const Projects = () => {
       description:
         "A leave management application designed for organizations to manage employee leaves, approvals, and attendance tracking efficiently.",
       tech: ["React.js", "Javascript", "Mysql"],
-      image: "src/assets/file cover - 1.png",
+      image: "/assets/file cover - 1.png",
       githubUrl: "https://github.com/Dharanitharan21/EMS_frontend",
       gradient: "from-orange-600 to-red-600",
     },
@@ -68,7 +68,7 @@ const Projects = () => {
       description:
         "A web-based application for creating, assigning, and tracking tests or assessments, suitable for educational or corporate environments.",
       tech: ["React.js", "Javascript", "MongoDB"],
-      image: "src/assets/testapp.png",
+      image: "/assets/testapp.png",
       githubUrl: "https://github.com/Dharanitharan21/testmanagementappUI",
       gradient: "from-blue-600 to-purple-600",
     },
